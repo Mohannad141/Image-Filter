@@ -20,7 +20,7 @@ cd Image-Filter
 ```
 2️⃣ Compile the program
 ```
-g++ -o image_processor "An Image filter.cpp" -std=c++11
+g++ -o image_processor "Image_filter.cpp" -std=c++11
 ```
 3️⃣ Run the program
 ```
