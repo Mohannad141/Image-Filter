@@ -15,8 +15,8 @@ This program applies **15 different image processing filters**, including:
 ## Setup & Compilation  
 ### 1️⃣ **Clone the repository**  
 ```bash
-git clone https://github.com/Mohannad141/My-Work/tree/main/Image%20Filter
-cd Image-Processor
+git clone https://github.com/Mohannad141/Image-Filter
+cd Image-Filter
 ```
 2️⃣ Compile the program
 ```
